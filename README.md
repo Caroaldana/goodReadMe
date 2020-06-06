@@ -1,11 +1,10 @@
-Title:
-Good README.md Generator
- https://img.shields.io/badge/license-None-red.svg
+# Good README.md Generator
+[![GitHub license](https://img.shields.io/badge/license-none-red.svg)]
 
-Description:
+## Description:
 this was developed so I can automate read me file
 
-Table of Content:
+## Table of Content:
 1. Intro 
 2. Usage 
 3. Usage
