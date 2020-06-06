@@ -1,0 +1,13 @@
+Title:
+Good README.md Generator
+ https://img.shields.io/badge/license-None-red.svg
+
+Description:
+this was developed so I can automate read me file
+
+Table of Content:
+1. Intro 
+2. Usage 
+3. Usage
+4. Contributing
+5. Testing
