@@ -1,5 +1,5 @@
 # Good README.md Generator
-[![GitHub license](https://img.shields.io/badge/license-none-red.svg)]
+![GitHub license](https://img.shields.io/badge/license-none-red.svg)
 
 ## Description:
 this was developed so I can automate read me file
@@ -10,3 +10,4 @@ this was developed so I can automate read me file
 3. Usage
 4. Contributing
 5. Testing
+6. Questions
